@@ -1,4 +1,4 @@
-line Presence Impact specializes in website development and digital marketing, aiming to help businesses and individuals establish a strong online presence. Your services include digital marketing, portfolio creation, web development, app development, and logo design. The team comprises professional staff dedicated to delivering secure, optimized websites with a focus on customer satisfaction and fair pricing.
+Online Presence Impact specializes in website development and digital marketing, aiming to help businesses and individuals establish a strong online presence. Your services include digital marketing, portfolio creation, web development, app development, and logo design. The team comprises professional staff dedicated to delivering secure, optimized websites with a focus on customer satisfaction and fair pricing.
 
 Here's a suggested README.md for your project:
 
